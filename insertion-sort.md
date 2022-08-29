@@ -25,7 +25,6 @@
 
 - **Cevap:** 
 O($n^2$)
-***
 
 ***
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
